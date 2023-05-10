@@ -38,7 +38,7 @@ enableEmoji = true
   # You can take a look at layouts/index.html for more information.
   description = "A small collection of... things."
   mainSections = ['posts']
-  toc = true # set to false to disable table of contents 'globally'
+  toc = false # set to false to disable table of contents 'globally'
   goToTop = true # set to false to disable 'go to top' button
 
 [params.author]
@@ -57,11 +57,6 @@ enableEmoji = true
   background_color = "#fff" # by default depend on "params.defaultColor" for "light" or "auto" will be set to "#fff" for dark will be "#131418" (color of dark mode background)
   display = "standalone"
 
-
-[tableOfContents]
-startLevel = 2 # ToC starts from H2
-endLevel = 4 # ToC ends at H4
-ordered = false # generates <ul> instead of <ol>
 
 [[params.socialIcons]]
 name = "github"
