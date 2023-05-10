@@ -42,7 +42,7 @@ enableEmoji = true
   goToTop = true # set to false to disable 'go to top' button
 
 [params.author]
-  avatar = "img/avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
+  avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "dfx.is"
   name = "Josh"
