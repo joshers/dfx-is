@@ -42,11 +42,11 @@ enableEmoji = true
   goToTop = true # set to false to disable 'go to top' button
 
 [params.author]
-  avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
+  avatar = "img/avatar.png" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Awesome hugo blog"
+  intro = "dfx.is"
   name = "Josh"
-  description = "A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog"
+  description = "A small collection of... things."
 
 # Allow to override webmanifest options
 [params.webmanifest]
@@ -66,3 +66,7 @@ ordered = false # generates <ul> instead of <ol>
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/joshers"
+
+[[params.socialIcons]]
+name = "mastodon"
+url = "https://infosec.exchange/@itwasdns"
