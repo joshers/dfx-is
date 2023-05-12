@@ -1,4 +1,10 @@
-## About
+---
+title: "About"
+date: 2023-05-11T00:00:00
+author: Josh
+---
+
+
 This is just a small site dedicated to random things I may want to memorialize for some reason or another. Or thoughts I just want to share. Who knows if it will actually be useful to anyone.
 
 ## Uses
