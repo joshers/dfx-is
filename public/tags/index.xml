@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on dfx.is</title>
+    <link>https://dfx.is/tags/</link>
+    <description>Recent content in Tags on dfx.is</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://dfx.is/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Casefile</title>
+      <link>https://dfx.is/casefile/</link>
+      <pubDate>Wed, 10 May 2023 00:26:07 -0400</pubDate>
+      
+      <guid>https://dfx.is/casefile/</guid>
+      <description>&lt;p&gt;I’ve started listening to the Casefile podcast. It scratches a certain true crime itch, I suppose. I like that the narrator is very objective and there is no joking or levity. Another podcast I used to listen to really bothered me with the strange commentary they would provide, as if it was all for their own entertainment. The stories also all seem to have resolutions (at least the ones I’ve listened to so far), which I like a lot as well.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Initial Commit</title>
+      <link>https://dfx.is/initial-commit/</link>
+      <pubDate>Wed, 10 May 2023 00:10:24 -0400</pubDate>
+      
+      <guid>https://dfx.is/initial-commit/</guid>
+      <description>&lt;p&gt;Hello, world.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    
+  </channel>
+</rss>
