@@ -1,7 +1,5 @@
 ---
 title: "About"
-date: 2023-05-11T00:00:00
-author: Josh
 ---
 
 
