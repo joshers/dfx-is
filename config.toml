@@ -11,7 +11,7 @@ enableEmoji = true
 [params]
   description = "A small collection of... things."
   copyright = "Copyright © 2023"
-  footer = "Made with ❤️ Using Hugo"
+  footer = "Made with ♥ Using Hugo"
   dark = "auto"
   highlight = true
   
