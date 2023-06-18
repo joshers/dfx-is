@@ -9,6 +9,7 @@ Some of the tools I use on a routine basis. No affiliate links, just products or
 ### Hardware
 * [MacBook Air M1](https://www.apple.com/macbook-air-m1/) - *The main computing device I use on a daily basis. A+, would buy again.*
 * [Logitech MX Anywhere 3](https://www.logitech.com/en-us/products/mice/mx-anywhere-3.html) - *An awesome mouse that can pair with three devices in a mix of bluetooth and dongles*
+* [Logitech MX Mechanical Mini (Mac)](https://www.logitech.com/en-us/products/keyboards/mx-mechanical-mini-mac.html) - *A similarly awesome keyboard*
 * [iPhone 14 Pro](https://www.apple.com/iphone-14-pro/) - *I'm heavily invested in the Apple ecosystem*
 * [Synology ds720+](https://www.storagereview.com/review/synology-diskstation-ds720-review) - *Network storage and my media server*
 * [Lenovo M920q](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/thinkcentre-m920q/11tc1mtm92q) - *SFF computing device that replaced an ancient Dell R710 server*
