@@ -20,7 +20,7 @@ Some of the tools I use on a routine basis. No affiliate links, just products or
 * [iTerm2](https://iterm2.com) - *Awesome terminal emulator on MacOS*
 * [Ivory](https://tapbots.com/ivory/) - *My Mastodon client of choice; RIP Tweetbot*
 * [Nova](https://nova.app/) - *I love Panic software and this replaced SublimeText for me*
-* [Standard Notes](https://standardnotes.com/) - *Encrypted note application; not including under services because I self-host the sync server*
+* [Obsidian](https://obsidian.md/) - *After becoming worried about the lack of raw access to notes in Standard Notes, I swapped over to Obsidian which also has a far superior markdown editor*
 * [Gitea](https://gitea.io/) - *Local git server; some repos are mirrored to GitHub*
 
 ### Services
